@@ -1,0 +1,81 @@
+/* shared styles */
+
+main {
+    width: 1600px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.hero {
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    border-radius: 15px;
+    background-size: cover;
+    padding-bottom: 110px;
+
+}
+
+
+.hero-container {
+    padding: 170px 110px 150px 100px;
+}
+
+.hero-greetings {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0;
+    padding-bottom: 60px;
+
+}
+
+.hero-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 100px;
+    margin-top: 10px;
+    padding-right: 70px;
+
+}
+
+.container {
+    text-align: center;
+    width: ;
+}
+
+.container h2 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.container p {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container h3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
